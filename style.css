@@ -19,6 +19,7 @@ h1{
     padding-top: 5%;
     text-align: justify;
 }
+
 .half-width img{
     width: 100%; 
    
@@ -30,4 +31,12 @@ h1{
 section{
     height: 500px;
     
+}
+.top-button{
+    text-decoration: none;
+    background-image: -moz-linear-gradient(45deg, lightsalmon, tomato);
+    padding: 4px 12px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: white;
 }
